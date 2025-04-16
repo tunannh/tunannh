@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tunannh, a CS student from Ho Chi Minh City University of Technology (HCMUT).
+- 👋 Hi, I’m Tuan, a CS student from Ho Chi Minh City University of Technology (HCMUT).
 - 👀 I’m interested in building modern, responsive web applications and improving user experience.  
 - 🌱 I’m currently learning web development technologies like HTML, CSS, JavaScript, and ReactJS.
 - 🎯 My goal is to become a full-stack web developer and develop modern, user-centric, and scalable web applications.
